@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Qu. whether the King, Lords and Commons now assembled, be a legal Parliament, and may act as such?</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56897</idno><idno type="EEBO-CITATION">11893694</idno>
+  <idno type="VID">50500</idno>
+  <idno type="EEBO-PROQUEST">2240922920</idno>
+  
+            <idno type="STC">Wing Q2</idno>
+            <idno type="STC">ESTC R6188</idno>
+            <idno type="OCLC">11893694</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50500)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 507:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Qu. whether the King, Lords and Commons now assembled, be a legal Parliament, and may act as such?</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Janeway...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50500:1"/>
+            <head>Qu. Whether the King, Lords and Commons now Assembled, be a Legal Parliament, and may Act as such?</head>
+            <p n="1">I. THE necessity of a Parliament agreed by the Lords and Commons Voting that the Throne is Vacant; for there being a Vacancy, there follows an immediate necessity of settling the Government, especially the Writs being destroyed, and the Great Seal carryed away, put a period to all publick Justice, and then there must be a supply by such means as the necessity requires, or a fai<g ref="char:EOLhyphen"/>lure of Government.</p>
+            <p n="2">II. Consider the antecedents to the calling the Convention; that is, about three hundred of the Commons, which is a majority of the fullest House that can be made, above sixty Lords, being a greater number, than any part di<g ref="char:EOLhyphen"/>vided amounted to at this great Meeting, the Lord Mayor, Aldermen, and Common Council of the City of <hi>London,</hi> by application to His then Highness the Prince of <hi>Orange,</hi> desired him to accept of the Administration of Publick Af<g ref="char:EOLhyphen"/>fairs, Military and Civil, which he was pleased to do, to the great satisfaction of all good people; and after that His Highness was desired to Issue forth His Circular Letters to the Lords, and the like to the Coroners, and in their ab<g ref="char:EOLhyphen"/>sence to the Clerks of the Peace, to Elect Knights, Citizens, and Burgesses; this was more than was done in Fifty nine, for the calling a Parliament in <hi>April</hi> 1660. for there the Sum<g ref="char:EOLhyphen"/>mons was not real, but fictitious, <hi>(i. e.)</hi> in the names of the Keepers of the Liberties of <hi>England;</hi> a meer notion set up as a form, there being no such persons, but a meer <hi>Ens Ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ionis,</hi> impossible really to exist: so that here was much more done than in 1659. and all really done which was possible to be invented, as the Affairs then stood. Besides King <hi>Ch.</hi> the 2d. had not abdi<g ref="char:EOLhyphen"/>cated the Kingdom, but was willing to return, and was at <hi>Breda,</hi> whither they might have sent for Writs, and in the mean time have kept their form of Keepers of the Liberties, <hi>&amp;c.</hi> But in the present case there was no King in being, nor any style or form of Government, neither real, or notional left; so that in all these re<g ref="char:EOLhyphen"/>spects, more was done before, and at the calling of this Great Convention, than for calling that Parliament (for so I must call it) yet that Parliament made several Acts, in all thirty se<g ref="char:EOLhyphen"/>ven, as appears by <hi>Keebles</hi> Statutes, and several of them not confirmed; I shall instance but in one, but it is one which there was occasion to use in every County of <hi>England;</hi> I mean the Act for Confirming and Restoring Ministers, be<g ref="char:EOLhyphen"/>ing the 17th of that Sessions; all the Judges al<g ref="char:EOLhyphen"/>lowed of this as an Act of Parliament, tho' ne<g ref="char:EOLhyphen"/>ver confirmed, which is a stronger case than that in question; for there was only fictitious Sum<g ref="char:EOLhyphen"/>mons, here a real one.</p>
+            <p n="3">III. That without the Consent of any body of the People, this at the Request of a Majority of the Lords, more than half the number of the Commons duly chosen in King <hi>Ch.</hi> the 2d's time, besides the great body of the City of <hi>London</hi> being at least esteem'd a 5th part of the Kingdom; yet after the King's Return, he was so well sa<g ref="char:EOLhyphen"/>tisfied with the calling of that Parliament, that it was Enacted by the King, Lords and Commons Assembled in Parliament; that the Lords and Commons then Sitting at <hi>Westminster</hi> in the pre<g ref="char:EOLhyphen"/>sent Parliament, were the two Houses of Par<g ref="char:EOLhyphen"/>liament, notwithstanding any want of the Kings Writ or Writs of Summons, or any defect what<g ref="char:EOLhyphen"/>soever, and as if the King had been present at the beginning of the Parliament; this I take to be a full Judgment in full Parliament of the case in question, and much stronger than the present case is, and this Parliament continued till the 29th of <hi>December</hi> next following, and made in all thirty seven Acts, as above men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p>The 13 <hi>Caroli</hi> 2. <hi>chap.</hi> 7. (a full Parliament called by the Kings Writ) recites the other of 12 <hi>Caroli</hi> 2. and that after his Majesties return they were continued till the 29th of <hi>December,</hi> and then dissolved, and that several Acts passed; this is the plain Judgment of another Parliament.</p>
+            <p n="1">1. Because it says they were continued, which shews they had a real being capable of being con<g ref="char:EOLhyphen"/>tinued; for a Confirmation of a void Grant has no effect, and Confirmation shews a Grant only voidable, so the continuance there shewed it at most but voidable; and when the King came, and confirm'd it, all was good.</p>
+            <p n="2">2. The dissolving it then, shews they had a being, for, as <hi>ex nihilo nihil fit,</hi> so <hi>super nihil nil operatur,</hi> as out of nothing nothing can be made, so upon nothing nothing can operate.</p>
+            <p>Again, the King, Lords and Commons, make the great Corporation or Body of the Kingdom, and the Commons are legally taken for the Free-holders, <hi>Inst.</hi> 4 <hi>p.</hi> 2. Now the Lords and Commons having Proclaimed the King, the de<g ref="char:EOLhyphen"/>fect of this great Corporation is cured, and all the Essential parts of this great Body Politique
+<pb n="2" facs="tcp:50500:2"/> united and made compleat as plainly as when the Mayor of a Corporation dyes, and another is chosen, the Corporation is again perfect; and to say, that which perfects the great Body Poli<g ref="char:EOLhyphen"/>tique should in the same instant destroy it, I mean the Parliament, is to make contradiction true, <hi>simul &amp; semel,</hi> the perfection, and destru<g ref="char:EOLhyphen"/>ction of this great Body at one instant, and by the same Act.</p>
+            <p>Then if necessity of Affairs was a forcible Ar<g ref="char:EOLhyphen"/>gument in 1660, a time of great peace, not only in <hi>England,</hi> but throughout <hi>Europe,</hi> and almos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in all the World, certainly 'tis of a greater for <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now, when <hi>England</hi> is scarce delivered from Popery and Slavery; when <hi>Ireland</hi> has a mighty Army of Papists, and that Kingdom in hazard of final destruction, if not speedily prevented; and when <hi>France</hi> has destroyed most of the Prote<g ref="char:EOLhyphen"/>stants there, and threatens the ruin of the <hi>Low-Countries,</hi> from whence God has sent the won<g ref="char:EOLhyphen"/>derful Assistance of our Gracious, and therefore most Glorious King; and <hi>England</hi> cannot pro<g ref="char:EOLhyphen"/>mise safety from that Forreign Power, when forty days delay, which is the least can be for a new Parliament, and considering we can never hope to have one more freely chosen, because first it was so free from Court influence, or like<g ref="char:EOLhyphen"/>lihood of all design, that the Letters of Sum<g ref="char:EOLhyphen"/>mons issued by him, whom the great God in infi<g ref="char:EOLhyphen"/>nite Mercy raised to save us, to the hazard of his Life, and this done to protect the Pro<g ref="char:EOLhyphen"/>testant Religion, and at a time when the peo<g ref="char:EOLhyphen"/>ple were all concerned for one Common in<g ref="char:EOLhyphen"/>terest of Religion, and Liberty, it would be vain when we have the best King and Queen the World affords, a full house of Lords, the most solemnly chosen Commons, that ever were in the remembrance of any man living, to spend money and lose time (I had almost said to despise providence) and take great pains to destroy our selves.</p>
+            <p>If any object Acts of Parliament mentioning Writs and Summons, <hi>&amp;c.</hi>
+            </p>
+            <p>I answer the President in 1660 is after all those Acts.</p>
+            <p>In private cases as much has been done in point of necessity; a Bishop provincial dies, and <hi>sede va<g ref="char:EOLhyphen"/>cante</hi> a Clerk is presented to a Benefice, the pre<g ref="char:EOLhyphen"/>sentation to the Dean and Chapter is good in this case of necessity; and if in a Vacancy by the death of a Bishop a Presentation shall be good to the Dean, and Chapter rather than a prejudice should happen by the Church lying void; Surely <hi>à fortiori—</hi> Vacancy of the Throne may be sup<g ref="char:EOLhyphen"/>plyed without the formality of a Writ and the great Convention turn'd to a Real Parliament.</p>
+            <p>A Summons in all points is of the same real force as a Writ, for a Summons and a Writ dif<g ref="char:EOLhyphen"/>fer no more than in name, the thing is the same in all Substantial parts; the Writ is Recorded in Chancery so are His Highnesses Letters; the proper Officer Endorses the Return so he does here, (for the Coroner in defect of the Sheriff is the proper Officer;) the people Choose by Virtue of the Writ, so they did freely by Virtue of the Letters, <hi>&amp;c. &amp; quae re concordant parum differunt,</hi> they agree in Reality, and then what difference is there between the one and the o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <hi>Obj.</hi> A Writ must be in Actions at Common Law, else all pleadings after, will not make it good, but Judgment given may be Reversed by a Writ of Error.</p>
+            <p>
+               <hi>Answ.</hi> The case differs, first, because actions be<g ref="char:EOLhyphen"/>tween party and party, are adversary Actions, but summons to Parliament are not so, but are Mediums only to have an election.</p>
+            <p n="2">2. In actions at Law the Defendant may plead to the Writ, but there is no plea to a Writ for electing members to serve in Parliament; and for this I have <hi>Littleton's</hi> Argument, there never was such plea, therefore none lies.</p>
+            <p>
+               <hi>Obj.</hi> That they have not taken the Test.</p>
+            <p>
+               <hi>Answ.</hi> They may take the Test yet; and then all which they do will be good, for the Test being the distinguishing mark of a Protestant from a Papist, when that is taken the end of the Law is performed.</p>
+            <p>
+               <hi>Obj.</hi> That the Oaths of Allegiance and Su<g ref="char:EOLhyphen"/>premacy ought to be taken, and that the new ones are not legal.</p>
+            <p>
+               <hi>Answ.</hi> The Convention being the Supream Power, have abolish'd the old Oaths; and have made new ones; and as to the making new Oaths the like was done in <hi>Alfreds</hi> time, when they chose him King; <hi>vide</hi> Mirror of Justice. <hi>Chap.</hi> 1. for the Heptarchy being turn'd to a Monarchy, the precedent Oaths of the seven Kings could not be the same King <hi>Alfred</hi> swore.</p>
+            <p>Many Presidents may be cited, where Laws have been made in Parliament, without the Kings Writ to Summon them, which for brevi<g ref="char:EOLhyphen"/>ty's sake I forbear to mention.</p>
+            <p>For a farewel, the Objections quarrel at our happiness, fight against our safety, and aim at that which may indanger destruction.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, and are to Sold by <hi>Richard Janeway</hi> in <hi>Queens-Head-Ally</hi> in <hi>Pater-Noster-Row.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
